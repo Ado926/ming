@@ -4,10 +4,10 @@ const path = require("path");
 exports.PREFIX = "/";
 
 // Emoji do bot (mude se preferir).
-exports.BOT_EMOJI = "🤖";
+exports.BOT_EMOJI = "";
 
 // Nome do bot (mude se preferir).
-exports.BOT_NAME = "LITE BOT";
+exports.BOT_NAME = "Lirililarila";
 
 // Número do bot. Coloque o número do bot
 // (apenas números, exatamente como está no WhatsApp).
